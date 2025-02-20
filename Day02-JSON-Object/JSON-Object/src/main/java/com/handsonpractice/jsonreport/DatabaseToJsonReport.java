@@ -8,7 +8,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class DatabaseToJsonReport {
+public class DatabaseToJsonReport{
     public static void main(String[] args) {
         // Define JDBC URL for MySQL database
         String jdbcUrl = "jdbc:mysql://localhost:3306/students.db";
