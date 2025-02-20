@@ -1,4 +1,4 @@
-package com.practiceproblem;
+package com.practiceproblem.createjsonobject;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
