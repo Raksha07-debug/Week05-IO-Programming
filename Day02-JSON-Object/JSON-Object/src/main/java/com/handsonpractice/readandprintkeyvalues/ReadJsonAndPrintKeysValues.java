@@ -1,4 +1,4 @@
-package com.handsonpractice;
+package com.handsonpractice.readandprintkeyvalues;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

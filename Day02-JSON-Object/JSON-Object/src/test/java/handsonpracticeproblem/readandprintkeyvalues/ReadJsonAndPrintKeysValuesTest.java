@@ -1,4 +1,4 @@
-package handsonpracticeproblem;
+package handsonpracticeproblem.readandprintkeyvalues;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
