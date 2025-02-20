@@ -1,4 +1,4 @@
-package createjsonobject;
+package practiceproblem.createjsonobject;
 
 
 import com.practiceproblem.CreateJsonObject;
